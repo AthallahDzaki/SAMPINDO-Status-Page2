@@ -14,16 +14,16 @@ params:
       category: SA-MP
     - name: Website
       description: ""
-      category: Core
+      category: CORE
     - name: Forum
       description: ""
-      category: Core
+      category: CORE
     - name: Monitor
-      category: Core
+      category: CORE
     - name: Status
       category: CORE
     - name: Radio
-      category: Core
+      category: CORE
     - name: API
       category: CORE
   dateFormat: January 2, 2006 at 3:04 PM
