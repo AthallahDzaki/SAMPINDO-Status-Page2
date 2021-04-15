@@ -32,6 +32,15 @@ params:
   logo: logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: WEBSITE
+      link: https://sampindo.com
+    - name: FORUM
+      link: https://forum.sampindo.com
+    - name: STATUS
+      link: https://status.sampindo.com
+    - name: MONITOR
+      link: https://monitor.sampindo.com
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: false
