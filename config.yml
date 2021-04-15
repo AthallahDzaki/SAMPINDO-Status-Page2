@@ -2,7 +2,7 @@ title: SAMPINDO STATUS PAGE
 buildFuture: true
 defaultContentLanguage: en
 languageCode: id
-baseURL: https://Incident.sampindo.com
+baseURL: https://status.sampindo.com
 params:
   disableDarkMode: true
   shortDateFormat: 15:04 — Jan 2
