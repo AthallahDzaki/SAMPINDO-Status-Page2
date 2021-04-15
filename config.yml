@@ -43,7 +43,7 @@ params:
   categories:
     - name: CORE
       description: The core of servers are located here.
-      closed: true
+      closed: false
       untitled: false
     - name: SA-MP
       description: Indonesia Roleplay Status
