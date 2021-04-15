@@ -43,12 +43,13 @@ params:
   categories:
     - name: CORE
       description: The core of servers are located here.
-      closed: false
+      closed: true
       untitled: false
     - name: SA-MP
       description: Indonesia Roleplay Status
-      closed: false
+      closed: true
     - name: MTA SA
+      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
