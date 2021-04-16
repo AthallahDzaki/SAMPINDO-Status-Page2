@@ -2,7 +2,7 @@
 section: issue
 title: DDOS Attack
 date: 2021-04-09T11:55:39.314Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: ""
